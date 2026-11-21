@@ -9,7 +9,7 @@
 
 - 🎓 I’m studying Computer Engineering at the Polytechnic University of Beja.
 - 🎓 I completed a Level 4 Computer Programming qualification at Escola Profissional Cristóvão Colombo in Funchal (2021–2024).
-- 🔭 Take a look at my [portfolio repository](https://github.com/Marco017/portfolio).
+- 🔭 Take a look at my [portfolio](https://marco017.github.io/portfolio/).
 - 🌱 I’m focused on backend development with **Node.js, TypeScript, REST APIs, and SQL**.
 - 💬 Ask me about **Node.js, TypeScript, REST APIs, and databases**.
 - 📫 Reach me at **[marcorsfrancisco06@gmail.com](mailto:marcorsfrancisco06@gmail.com)**.
